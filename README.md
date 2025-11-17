@@ -47,16 +47,6 @@ Consistent themes, slicer syncing, navigation pages, bookmarks, and color logic.
 Power Query
 Cleaned datasets, performed transformations, and standardized schemas.
 
-📦 Contents of This Repository
-
-/daily-projects – All 15 mini projects
-
-/final-dashboards – The 5 selected polished dashboards
-
-/datasets – Cleaned and raw datasets used
-
-/docs – Insights, notes, and project explanations
-
 🎯 Purpose of This Project
 
 To build practical, job-ready Power BI skills through consistent execution.
