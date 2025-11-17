@@ -1,6 +1,6 @@
 15 Days • 15 Projects + 5 Final Dashboards
 
-By: M. Aashin Nishath
+By: M. Aashik Nishath
 
 This repository documents my 15-day Power BI learning sprint where I completed one analytics project each day and selected the top five to rebuild as polished, portfolio-ready dashboards. The goal was simple: practice real data analysis, build strong BI fundamentals, and convert raw datasets into clear decision-making tools.
 
