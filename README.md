@@ -1,4 +1,4 @@
-15 Days • 15 Projects + 5 Final Dashboards
+15 Days • 15 Projects = 5 Final Dashboards
 
 By: M. Aashik Nishath
 
